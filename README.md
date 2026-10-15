@@ -43,8 +43,4 @@ The source match table was exported by a student from FBref's 2026 World Cup sco
 
 The 104/208 sample design is specific to this tournament. First-match historical predictors are missing by design and imputed within training folds. The goal-difference model has weak holdout performance, and the goals-scored model provides only limited predictive improvement. These results should not be presented as reliable match forecasts.
 
-## Academic integrity and contributions
 
-ChatGPT assisted with Python code development, analysis diagnostics and documentation drafting. Group members are responsible for verifying the results, understanding the work, recording their actual contributions and completing any required university AI-use declaration. GitHub upload history is not itself evidence that every member wrote code.
-
-Private student details, signatures, group report and Turnitin materials are not part of this public code package.
