@@ -1,0 +1,17 @@
+1. Extract this ZIP and open its folder in VS Code (File > Open Folder).
+2. Open Terminal > New Terminal and confirm pwd is the project folder.
+3. Create an EMPTY GitHub repository at https://github.com/new named HIT140-FIFA2026-Objective2.
+4. Run:
+
+git init
+git branch -M main
+git add .
+git status
+git commit -m "Add FIFA2026 Objective 2 Python analysis"
+git remote add origin https://github.com/YOUR_USERNAME/HIT140-FIFA2026-Objective2.git
+git push -u origin main
+
+Replace YOUR_USERNAME. If the remote already exists, check git remote -v instead of adding again.
+If asked, authenticate with GitHub in the browser.
+After upload, refresh the repository and check that run_objective2.py, input/prepare_objective2.py, the notebook, CSVs and figures appear.
+Copy the actual repository URL into the university submission's repository link file.
