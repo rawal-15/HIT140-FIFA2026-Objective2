@@ -1,5 +1,0 @@
-task,experiment,cv_RMSE
-regression21,Cohost side indicator,2.012754695084883
-regression21,Sum of prior matches,2.0668184270380925
-regression22,Points per match,1.3919740543667065
-regression22,Opponent scoring rate,1.4005354676072124
